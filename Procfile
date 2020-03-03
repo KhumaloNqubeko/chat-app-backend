@@ -1,1 +1,1 @@
-web: node chat-server.js
+web: nodemon chat-server.js
