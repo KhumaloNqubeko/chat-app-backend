@@ -1,0 +1,12 @@
+{
+    "name": "chatapp",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "nodemon chat-server.js"
+    },
+    "dependencies": {
+        "express": "4.13.3"
+    },
+    "author": "Sabelo Shabalala",
+    "license": "ISC"
+}
