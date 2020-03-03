@@ -5,7 +5,6 @@ var utils = require('./utils');
 var cors = require('cors');
 
 var app = express();
-
 app.use(cors());
 
 var port = utils.normalizePort(process.env.PORT || '3000');
