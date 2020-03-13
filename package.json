@@ -5,8 +5,17 @@
         "start": "nodemon chat-server.js"
     },
     "dependencies": {
-        "express": "4.13.3"
+        "cors": "^2.8.5",
+        "express": "4.13.3",
+        "pg": "^7.18.2",
+        "socket.io": "^2.3.0",
+        "uuid": "^7.0.2",
+        "uuidv4": "^6.0.6"
     },
     "author": "Sabelo Shabalala",
-    "license": "ISC"
+    "license": "ISC",
+    "devDependencies": {
+        "concurrently": "^5.1.0",
+        "nodemon": "^2.0.2"
+    }
 }
