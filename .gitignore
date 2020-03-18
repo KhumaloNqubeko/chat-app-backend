@@ -9,13 +9,13 @@ jspm_packages
 .webpack
 .build
 
-coverage
-npm-debug.log*
-yarn-error.log
-server.js*
-.DS_Store
-dist
-env.yml
+# coverage
+# npm-debug.log*
+# yarn-error.log
+# server.js*
+# .DS_Store
+# dist
+# env.yml
 
 # Editor settings
 .idea
